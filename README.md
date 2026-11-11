@@ -74,8 +74,7 @@ Perform the open circuit test and the load test in the Virtual Lab (IIT Roorkee)
 
 ### B. Load test – simulation
 
-<img width="1080" height="491" alt="898650955_4638119309806356_8679585247273810023_n" src="https://github.com/user-attachments/assets/d352b374-4e25-4d24-ae66-cf43dc97a7dd" />
-
+<img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/64ff0bf1-e4e8-44dc-aa84-c41396282ebc" />
 
 
 **Figure 3:** Virtual Lab simulation – load test
