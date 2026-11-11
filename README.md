@@ -85,7 +85,7 @@ Perform the open circuit test and the load test in the Virtual Lab (IIT Roorkee)
 
 | S. No. | Field current If (A) | Generated EMF Eg (V) |
 |:---:|:---:|:---:|
-| 1 | | |
+| 1 | 1.2 | 220 |
 | 2 | | |
 | 3 | | |
 | 4 | | |
@@ -117,18 +117,16 @@ Eg – generated EMF (V); VL – terminal (load) voltage (V); Ia – armature cu
 
 ### A. Open circuit characteristics (If vs Eg)
 
-<img width="328" height="262" alt="image" src="https://github.com/user-attachments/assets/c72066b0-3600-4618-987d-6eb81ac5ac17" />
+<img width="1080" height="341" alt="image" src="https://github.com/user-attachments/assets/15cef28e-e3b2-4e9a-867b-c013f03916d8" />
 
-<img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/3130f343-1d7a-49e2-81a1-de8ad06eb0bf" />
 
 
 **Figure 4:** Open circuit characteristics
 
 ### B. Load characteristics (IL vs VL)
 
-<img width="741" height="355" alt="image" src="https://github.com/user-attachments/assets/c5cb67ca-5677-430a-b839-d750e780ca28" />
+<img width="741" height="355" alt="image" src="https://github.com/user-attachments/assets/800e9dfa-7c3e-49f3-8de2-e1b9459ff5d0" />
 
-<img width="385" height="277" alt="image" src="https://github.com/user-attachments/assets/1bb20495-1b42-4b4e-8df8-f37ce360957a" />
 
 **Figure 5:** Load characteristics
 
