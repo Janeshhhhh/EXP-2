@@ -56,7 +56,9 @@ To conduct the open circuit and load test on a D.C. shunt generator and to obtai
 
 ## CIRCUIT DIAGRAM
 
-*[ Insert the circuit diagram here ]*
+<img width="1080" height="608" alt="893973491_1958193965387339_6370099934982645357_n" src="https://github.com/user-attachments/assets/ee8542ef-66cf-44fc-9b3b-055444e3e8a6" />
+<img width="1080" height="491" alt="898650955_4638119309806356_8679585247273810023_n" src="https://github.com/user-attachments/assets/6fd0dc9d-2a85-41cb-b40e-dee9d27f248e" />
+
 
 **Figure 1:** Circuit diagram for OCC and load test of D.C. shunt generator
 
@@ -66,13 +68,14 @@ Perform the open circuit test and the load test in the Virtual Lab (IIT Roorkee)
 
 ### A. Open circuit test – simulation
 
-*[ Paste the Virtual Lab OCC simulation screenshot here ]*
+<img width="1080" height="608" alt="893973491_1958193965387339_6370099934982645357_n" src="https://github.com/user-attachments/assets/5911dc61-856e-452d-b7d9-ddca8a2a4b39" />
+
 
 **Figure 2:** Virtual Lab simulation – open circuit test
 
 ### B. Load test – simulation
 
-*[ Paste the Virtual Lab load test simulation screenshot here ]*
+<img width="1080" height="491" alt="898650955_4638119309806356_8679585247273810023_n" src="https://github.com/user-attachments/assets/3498366b-87de-428b-bfce-b6cac40f5649" />
 
 **Figure 3:** Virtual Lab simulation – load test
 
@@ -114,13 +117,19 @@ Eg – generated EMF (V); VL – terminal (load) voltage (V); Ia – armature cu
 
 ### A. Open circuit characteristics (If vs Eg)
 
-*[ Paste / draw the OCC graph here ]*
+<img width="1080" height="341" alt="900832283_1246161887791360_1885112982896636203_n" src="https://github.com/user-attachments/assets/380c7ac5-aa9e-494c-a008-d9844e763c8f" />
+
+<img width="328" height="262" alt="image" src="https://github.com/user-attachments/assets/ef879c2e-813a-45e4-935d-3d80e9985f42" />
+
 
 **Figure 4:** Open circuit characteristics
 
 ### B. Load characteristics (IL vs VL)
 
-*[ Paste / draw the load characteristics graph here ]*
+<img width="741" height="355" alt="896289562_1117015597988221_3074628294774747339_n" src="https://github.com/user-attachments/assets/db22ff35-4052-4325-bfb4-fcca86a9242d" />
+
+<img width="385" height="277" alt="901757751_1428769022749647_9097457989914263144_n" src="https://github.com/user-attachments/assets/84668544-7b08-4a7e-8ec6-2e8fc1bb41e4" />
+
 
 **Figure 5:** Load characteristics
 
