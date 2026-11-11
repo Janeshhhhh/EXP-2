@@ -86,26 +86,22 @@ Perform the open circuit test and the load test in the Virtual Lab (IIT Roorkee)
 | S. No. | Field current If (A) | Generated EMF Eg (V) |
 |:---:|:---:|:---:|
 | 1 | 1.2 | 220 |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
-| 6 | | |
-| 7 | | |
-| 8 | | |
+| 2 | 3.2 | 208 |
+| 3 | 3.6 | 205 |
+| 4 | 5.5 | 200 |
+| 5 | 7 | 195 |
+| 6 | 8.1 | 189 |
 
 ### B. Load test
 
 | S. No. | Load current IL (A) | Load voltage VL (V) |
 |:---:|:---:|:---:|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
-| 6 | | |
-| 7 | | |
-| 8 | | |
+| 1 | 115 | 0.16 |
+| 2 | 120 | 0.18 |
+| 3 | 126 | 0.20 |
+| 4 | 129 | 0.21 |
+| 5 | 133 | 0.23 |
+| 6 | 135 | 0.24 |
 
 ## FORMULA
 
