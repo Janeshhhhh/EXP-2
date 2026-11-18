@@ -1,9 +1,7 @@
 ## EXPERIMENT NO. 2 – OCC AND LOAD CHARACTERISTICS OF D.C. SHUNT GENERATOR
 
-| **Name:** | Janesh.M | **Reg. No.:** | 26017589 |
-|---|---|---|---|..
-| **Date:** | 18.11.2026 | **Batch / Section:** | |
-
+**Name** : Janesh M
+**Reference No.** : 26017589
 ---
 
 ## AIM
