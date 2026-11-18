@@ -70,8 +70,8 @@ Tabulation for load characteristics:
 
  Model graph:
  <img width="741" height="355" alt="Screenshot 2026-10-22 202121" src="https://github.com/user-attachments/assets/18981ba7-55c2-466c-92a3-613ddf5fc8f8" />
-calculation:
+calculation: <br>
 <img width="385" height="277" alt="Screenshot 2026-10-22 202026" src="https://github.com/user-attachments/assets/bba70ef1-ded2-4d86-96ca-dbeea955b2af" />
-
+<br>
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
