@@ -57,7 +57,7 @@ Tabulation for Load Test:
 Model graph:
 <img width="1667" height="527" alt="Screenshot 2026-10-22 202526" src="https://github.com/user-attachments/assets/92b65064-6876-480a-95c8-108b9b97f490" />
 
-Calculation: 
+Calculation: <br>
 <img width="328" height="262" alt="Screenshot 2026-10-22 202504" src="https://github.com/user-attachments/assets/eadf9305-9ce0-47ef-9d5e-b98a7f653ce2" />
 
 
@@ -68,9 +68,9 @@ Load Characteristics:
 Tabulation for load characteristics:
 <img width="1797" height="856" alt="Screenshot 2026-10-22 201930" src="https://github.com/user-attachments/assets/480f8f7d-faac-4fc8-8414-b813ac12cc5d" />
 
- Model graph:
+ Model graph:<br>
  <img width="741" height="355" alt="Screenshot 2026-10-22 202121" src="https://github.com/user-attachments/assets/18981ba7-55c2-466c-92a3-613ddf5fc8f8" />
-calculation:
+calculation:<br>
 <img width="385" height="277" alt="Screenshot 2026-10-22 202026" src="https://github.com/user-attachments/assets/bba70ef1-ded2-4d86-96ca-dbeea955b2af" />
 
 Result:
